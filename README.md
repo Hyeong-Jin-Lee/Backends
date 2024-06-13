@@ -1,2 +1,4 @@
 # Backends
-Create the backend using Spring Boot and YOLO
+충북대학교 전문 프로젝트 
+고기 정보 및 등급 확인 앱
+입니다
